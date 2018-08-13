@@ -1,0 +1,213 @@
+1506116813958	geckodriver	INFO	geckodriver 0.18.0
+1506116813962	geckodriver	INFO	Listening on 127.0.0.1:53143
+1506116815126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506116816144	Marionette	INFO	Enabled via --marionette
+
+(firefox:27228): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506116818005	Marionette	INFO	Listening on port 41015
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506116818043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506116818085	Marionette	DEBUG	loaded listener.js
+1506116818102	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506116818663	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506116818664	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://18h.mm-cg.com/18H_5717.html, line 109: TypeError: $(...).fadeTo(...).html(...).fadeTo is not a function
+1506116820535	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506116820562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=538531"
+1506116821221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1506116821222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1506116821222	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1506117167572	geckodriver	INFO	geckodriver 0.18.0
+1506117167575	geckodriver	INFO	Listening on 127.0.0.1:39347
+1506117167696	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506117168482	Marionette	INFO	Enabled via --marionette
+
+(firefox:27565): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506117170194	Marionette	INFO	Listening on port 34028
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506117170321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506117170387	Marionette	DEBUG	loaded listener.js
+1506117170416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506117171719	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506117171720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://18h.mm-cg.com/18H_5717.html, line 218: TypeError: $(...).fadeTo(...).html(...).fadeTo is not a function
+1506117172672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506117173165	Marionette	DEBUG	Received DOM event "pageshow" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506117173264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284955&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117172050&sub=&tags=&screen_resolution=1366x768&email="
+1506117173294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284959&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117172079&sub=&tags=&screen_resolution=1366x768&email="
+1506117173295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284963&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117172096&sub=&tags=&screen_resolution=1366x768&email="
+1506117175156	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284955&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117172050&sub=&tags=&screen_resolution=1366x768&email="
+1506117175161	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284963&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117172096&sub=&tags=&screen_resolution=1366x768&email="
+1506117175164	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284959&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117172079&sub=&tags=&screen_resolution=1366x768&email="
+1506117281027	geckodriver	INFO	geckodriver 0.18.0
+1506117281030	geckodriver	INFO	Listening on 127.0.0.1:46900
+1506117282189	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506117282909	Marionette	INFO	Enabled via --marionette
+
+(firefox:27807): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506117284663	Marionette	INFO	Listening on port 38472
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506117284705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506117284752	Marionette	DEBUG	loaded listener.js
+1506117284778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506117285055	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506117285055	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506117285898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://18h.mm-cg.com/18H_5717.html"
+1506117286002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236038&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=16511&tzoffset=-240&rnd=43796"
+1506117286252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506117286273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=235810&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=16511&tzoffset=-240&rnd=47787"
+1506117286284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236036&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=16511&tzoffset=-240&rnd=62554"
+1506117287261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506117287282	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506117287651	Marionette	DEBUG	Received DOM event "pageshow" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236038&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=16511&tzoffset=-240&rnd=43796"
+1506117287653	Marionette	DEBUG	Received DOM event "pageshow" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=235810&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=16511&tzoffset=-240&rnd=47787"
+1506117288028	Marionette	DEBUG	Received DOM event "pageshow" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236036&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=16511&tzoffset=-240&rnd=62554"
+1506117288050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506117288053	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506117288183	Marionette	DEBUG	Received DOM event "pageshow" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506117288334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506117288339	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506117289204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506117289208	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506117289219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://n-cdn.areyouahuman.com/kitten?ak=751cda18687a82c11bbc009b05717a6ab&pk=ZQp6LCe0OO3LeZB6ES1CZrJvMefQTtT9oZjddBS5&AYAH_VERSION=2.0&rthtsync=false&cookiesync=true&AYAH_F1=Lotame&AYAH_P2=2DE7B66BA686C559B12D06B502824367"
+1506117289223	Marionette	DEBUG	Received DOM event "pageshow" for "https://n-cdn.areyouahuman.com/kitten?ak=751cda18687a82c11bbc009b05717a6ab&pk=ZQp6LCe0OO3LeZB6ES1CZrJvMefQTtT9oZjddBS5&AYAH_VERSION=2.0&rthtsync=false&cookiesync=true&AYAH_F1=Lotame&AYAH_P2=2DE7B66BA686C559B12D06B502824367"
+1506117371815	geckodriver	INFO	geckodriver 0.18.0
+1506117371818	geckodriver	INFO	Listening on 127.0.0.1:33420
+1506117372981	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506117373705	Marionette	INFO	Enabled via --marionette
+
+(firefox:28036): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506117375491	Marionette	INFO	Listening on port 41837
+1506117375508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506117375555	Marionette	DEBUG	loaded listener.js
+1506117375587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506117375859	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506117375860	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506117377033	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117376188&sub=&tags=&screen_resolution=1366x768&email="
+1506117377169	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506117376188&sub=&tags=&screen_resolution=1366x768&email="
+1506117377595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=538531"
+1506117379108	Marionette	DEBUG	Received DOM event "pageshow" for "http://adserver.juicyads.com/adshow.php?adzone=538531"
+1506118006996	geckodriver	INFO	geckodriver 0.18.0
+1506118006999	geckodriver	INFO	Listening on 127.0.0.1:56311
+1506118008157	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506118008830	Marionette	INFO	Enabled via --marionette
+
+(firefox:28561): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506118010498	Marionette	INFO	Listening on port 38942
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506118010655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506118010708	Marionette	DEBUG	loaded listener.js
+1506118010735	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506118011257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506118011258	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506118012354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012014&sub=&tags=&screen_resolution=1366x768&email="
+1506118012387	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284959&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012021&sub=&tags=&screen_resolution=1366x768&email="
+1506118012388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284955&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012018&sub=&tags=&screen_resolution=1366x768&email="
+1506118012454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284963&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012025&sub=&tags=&screen_resolution=1366x768&email="
+1506118012603	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012014&sub=&tags=&screen_resolution=1366x768&email="
+1506118012752	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284955&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012018&sub=&tags=&screen_resolution=1366x768&email="
+1506118012754	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284963&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012025&sub=&tags=&screen_resolution=1366x768&email="
+1506118012756	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284959&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118012021&sub=&tags=&screen_resolution=1366x768&email="
+1506118014350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://18h.mm-cg.com/18H_5717.html"
+1506118015245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506118015250	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506118015414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506118015417	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506118015788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://n-cdn.areyouahuman.com/kitten?ak=946750e3192cca6b9fedfc8d01becf9e2&pk=ZQp6LCe0OO3LeZB6ES1CZrJvMefQTtT9oZjddBS5&AYAH_VERSION=2.0&rthtsync=false&cookiesync=true&AYAH_F1=Lotame&AYAH_P2=D9E9B66B7E89C559C66B1D5302D0AF9E"
+1506118015792	Marionette	DEBUG	Received DOM event "pageshow" for "https://n-cdn.areyouahuman.com/kitten?ak=946750e3192cca6b9fedfc8d01becf9e2&pk=ZQp6LCe0OO3LeZB6ES1CZrJvMefQTtT9oZjddBS5&AYAH_VERSION=2.0&rthtsync=false&cookiesync=true&AYAH_F1=Lotame&AYAH_P2=D9E9B66B7E89C559C66B1D5302D0AF9E"
+1506118021606	Marionette	DEBUG	loaded listener.js
+1506118028945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1506118030244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1506118030245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1506118030245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1506118030245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506118030246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1506118030246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1506118030247	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1506118030247	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1506118431693	geckodriver	INFO	geckodriver 0.18.0
+1506118431696	geckodriver	INFO	Listening on 127.0.0.1:42109
+1506118432857	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506118433609	Marionette	INFO	Enabled via --marionette
+
+(firefox:28961): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506118435145	Marionette	INFO	Listening on port 35338
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506118435282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506118435331	Marionette	DEBUG	loaded listener.js
+1506118435363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506118435888	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506118435889	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506118437238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118436687&sub=&tags=&screen_resolution=1366x768&email="
+1506118438024	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=538531"
+1506118438656	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118436687&sub=&tags=&screen_resolution=1366x768&email="
+1506118440249	Marionette	DEBUG	Received DOM event "pageshow" for "http://adserver.juicyads.com/adshow.php?adzone=538531"
+1506118455513	Marionette	DEBUG	loaded listener.js
+1506118456710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://18h.mm-cg.com/18H_5717.html"
+1506118458569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506118458582	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506118458915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://t.dtscout.com/idg/"
+1506118458921	Marionette	DEBUG	Received DOM event "pageshow" for "http://t.dtscout.com/idg/"
+1506118459649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://n-cdn.areyouahuman.com/kitten?ak=6698e7d36b23a80bb9c18e812f535b649&pk=ZQp6LCe0OO3LeZB6ES1CZrJvMefQTtT9oZjddBS5&AYAH_VERSION=2.0&rthtsync=false&cookiesync=true&AYAH_F1=Lotame&AYAH_P2=1FE704453A8BC559645FD553024890BD"
+1506118459653	Marionette	DEBUG	Received DOM event "pageshow" for "https://n-cdn.areyouahuman.com/kitten?ak=6698e7d36b23a80bb9c18e812f535b649&pk=ZQp6LCe0OO3LeZB6ES1CZrJvMefQTtT9oZjddBS5&AYAH_VERSION=2.0&rthtsync=false&cookiesync=true&AYAH_F1=Lotame&AYAH_P2=1FE704453A8BC559645FD553024890BD"
+1506118552853	geckodriver	INFO	geckodriver 0.18.0
+1506118552855	geckodriver	INFO	Listening on 127.0.0.1:37959
+1506118554018	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506118554728	Marionette	INFO	Enabled via --marionette
+
+(firefox:29171): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506118556250	Marionette	INFO	Listening on port 34169
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506118556415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506118556470	Marionette	DEBUG	loaded listener.js
+1506118556500	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506118557064	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506118557065	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506118558228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557677&sub=&tags=&screen_resolution=1366x768&email="
+1506118558257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284959&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557696&sub=&tags=&screen_resolution=1366x768&email="
+1506118558288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284963&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557710&sub=&tags=&screen_resolution=1366x768&email="
+1506118558292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284955&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557681&sub=&tags=&screen_resolution=1366x768&email="
+1506118558513	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2288029&type=728x90&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557677&sub=&tags=&screen_resolution=1366x768&email="
+1506118558910	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284955&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557681&sub=&tags=&screen_resolution=1366x768&email="
+1506118558913	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284963&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557710&sub=&tags=&screen_resolution=1366x768&email="
+1506118558914	Marionette	DEBUG	Received DOM event "pageshow" for "http://syndication.exoclick.com/ads-iframe-display.php?idzone=2284959&type=300x250&p=http%3A//18h.mm-cg.com/18H_5717.html&dt=1506118557696&sub=&tags=&screen_resolution=1366x768&email="
+1506119840933	geckodriver	INFO	geckodriver 0.18.0
+1506119840935	geckodriver	INFO	Listening on 127.0.0.1:51840
+1506119842096	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1506119842771	Marionette	INFO	Enabled via --marionette
+
+(firefox:29892): IBUS-WARNING **: The owner of /home/gzd/.config/ibus/bus is not root!
+1506119844602	Marionette	INFO	Listening on port 41055
+1506119844622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1506119844683	Marionette	DEBUG	loaded listener.js
+1506119844714	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506119845015	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506119845015	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506119845800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236036&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=42394&tzoffset=-240&rnd=12001"
+1506119845913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=235810&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=42394&tzoffset=-240&rnd=29965"
+1506119845914	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236038&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=42394&tzoffset=-240&rnd=92677"
+1506119846258	Marionette	DEBUG	Received DOM event "pageshow" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236036&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=42394&tzoffset=-240&rnd=12001"
+1506119846265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506119846278	Marionette	DEBUG	Received DOM event "pageshow" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=236038&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=42394&tzoffset=-240&rnd=92677"
+1506119846280	Marionette	DEBUG	Received DOM event "pageshow" for "http://cs.adxpansion.com/ads.php?out=frm&zone_id=235810&generic_context=18H%2C18h%E6%BC%AB%E7%95%AB%2C%5B%E3%81%A4%E3%81%8B%E3%81%8F%5D%20%E5%88%9D%E6%AC%A1%E9%AB%94%E9%A9%97%E9%83%BD%E7%8D%BB%E7%B5%A6%E4%BD%A0_%E3%81%AF%E3%81%A4%E3%81%93%E3%81%84%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%5B%E6%83%B3%E6%8A%B1%E9%9B%B7%E5%A6%88%E6%B1%89%E5%8C%96%E7%BB%84%5D%2018h.mm%20cg.com%2018H%205717.html&url=http%3A%2F%2F18h.mm-cg.com%2F18H_5717.html&ipos=42394&tzoffset=-240&rnd=29965"
+1506119846876	Marionette	DEBUG	Received DOM event "pageshow" for "http://adserver.juicyads.com/adshow.php?adzone=537154"
+1506119859148	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1506119859149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1506119859149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1506119859149	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1506119859150	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
